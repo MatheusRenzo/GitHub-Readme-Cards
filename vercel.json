@@ -1,14 +1,23 @@
 {
+  "version": 2,
+  "builds": [
+    {
+      "src": "express.js",
+      "use": "@vercel/node"
+    }
+  ],
+  "routes": [
+    {
+      "src": "/(.*)",
+      "dest": "express.js"
+    }
+  ],
   "functions": {
-    "api/*.js": {
-      "memory": 128,
-      "maxDuration": 10
+    "express.js": {
+      "maxDuration": 30
     }
   },
-  "redirects": [
-    {
-      "source": "/",
-      "destination": "https://github.com/MatheusRenzo/GitHub-Readme-Cards"
-    }
-  ]
+  "env": {
+    "NODE_ENV": "production"
+  }
 }
