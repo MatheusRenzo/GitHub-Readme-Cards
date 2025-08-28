@@ -1,827 +1,570 @@
-<p align="center">
- <img width="100px" src="https://res.cloudinary.com/MatheusRenzo/image/upload/v1594908242/logo_ccswme.svg" align="center" alt="GitHub Readme Cards" />
- <h2 align="center">GitHub Readme Cards</h2>
- <p align="center">Crie cartões bonitos e dinâmicos do GitHub para seus READMEs!</p>
-</p>
-  <p align="center">
-    <a href="https://github.com/MatheusRenzo/GitHub-Readme-Cards/actions">
-      <img alt="Testes Passando" src="https://github.com/MatheusRenzo/GitHub-Readme-Cards/workflows/Test/badge.svg" />
-    </a>
-    <a href="https://github.com/MatheusRenzo/GitHub-Readme-Cards/graphs/contributors">
-      <img alt="Contribuidores GitHub" src="https://img.shields.io/github/contributors/MatheusRenzo/GitHub-Readme-Cards" />
-    </a>
-    <a href="https://codecov.io/gh/MatheusRenzo/GitHub-Readme-Cards">
-      <img alt="Cobertura de Testes" src="https://codecov.io/gh/MatheusRenzo/GitHub-Readme-Cards/branch/master/graph/badge.svg" />
-    </a>
-    <a href="https://github.com/MatheusRenzo/GitHub-Readme-Cards/issues">
-      <img alt="Problemas" src="https://img.shields.io/github/issues/MatheusRenzo/GitHub-Readme-Cards?color=0088ff" />
-    </a>
-    <a href="https://github.com/MatheusRenzo/GitHub-Readme-Cards/pulls">
-      <img alt="Pull requests GitHub" src="https://img.shields.io/github/issues-pr/MatheusRenzo/GitHub-Readme-Cards?color=0088ff" />
-    </a>
-    <a href="https://securityscorecards.dev/viewer/?uri=github.com/MatheusRenzo/GitHub-Readme-Cards">
-      <img alt="OpenSSF Scorecard" src="https://api.securityscorecards.dev/projects/github.com/MatheusRenzo/GitHub-Readme-Cards/badge" />
-    </a>
-    <br />
-    <br />
-    <a href="https://vercel.com?utm_source=github_readme_stats_team&utm_campaign=oss">
-      <img src="./powered-by-vercel.svg"/>
-    </a>
-  </p>
+<div align="center">
+  <img src="https://res.cloudinary.com/MatheusRenzo/image/upload/v1594908242/logo_ccswme.svg" width="120" alt="GitHub Readme Cards Logo"/>
+  
+  # 🚀 GitHub Readme Cards
+  
+  ### ✨ Gere cartões visuais impressionantes para seu perfil GitHub
+  
+  [![GitHub Stars](https://img.shields.io/github/stars/MatheusRenzo/GitHub-Readme-Cards?style=for-the-badge&logo=github&color=gold)](https://github.com/MatheusRenzo/GitHub-Readme-Cards/stargazers)
+  [![GitHub Forks](https://img.shields.io/github/forks/MatheusRenzo/GitHub-Readme-Cards?style=for-the-badge&logo=github&color=blue)](https://github.com/MatheusRenzo/GitHub-Readme-Cards/network/members)
+  [![GitHub Issues](https://img.shields.io/github/issues/MatheusRenzo/GitHub-Readme-Cards?style=for-the-badge&logo=github&color=red)](https://github.com/MatheusRenzo/GitHub-Readme-Cards/issues)
+  [![GitHub Pull Requests](https://img.shields.io/github/issues-pr/MatheusRenzo/GitHub-Readme-Cards?style=for-the-badge&logo=github&color=green)](https://github.com/MatheusRenzo/GitHub-Readme-Cards/pulls)
+  
+  [![Node.js Version](https://img.shields.io/badge/Node.js-22.18.0+-brightgreen?style=for-the-badge&logo=node.js)](https://nodejs.org/)
+  [![Express.js](https://img.shields.io/badge/Express.js-5.1.0+-blue?style=for-the-badge&logo=express)](https://expressjs.com/)
+  [![License](https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge)](LICENSE)
+  [![Made with Love](https://img.shields.io/badge/Made%20with-❤️-red?style=for-the-badge)](https://github.com/MatheusRenzo)
+  
+  [![Deploy on Vercel](https://img.shields.io/badge/Deploy%20on-Vercel-black?style=for-the-badge&logo=vercel)](https://vercel.com)
+  [![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-Enabled-brightgreen?style=for-the-badge&logo=github-actions)](https://github.com/MatheusRenzo/GitHub-Readme-Cards/actions)
+  
+  ---
+  
+  > **Transforme seu perfil GitHub em algo extraordinário!** 🎨
+  > 
+  > Crie cartões visuais impressionantes que exibem suas estatísticas, linguagens favoritas, repositórios em destaque e muito mais. Perfeito para desenvolvedores que querem se destacar!
+  
+  [📖 **Documentação Completa**](#-funcionalidades) • 
+  [🚀 **Começar Agora**](#-como-usar) • 
+  [💡 **Exemplos**](#-exemplos) • 
+  [🔧 **Deploy Próprio**](#-deploy-próprio)
+  
+  [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MatheusRenzo&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=8B949E&icon_color=58A6FF&hide=contribs,issues)](https://github.com/MatheusRenzo/GitHub-Readme-Cards)
+  
+</div>
 
-  <p align="center">
-    <a href="#todos-os-demos">Ver Demo</a>
-    ·
-    <a href="https://github.com/MatheusRenzo/GitHub-Readme-Cards/issues/new?assignees=&labels=bug&projects=&template=bug_report.yml">Reportar Bug</a>
-    ·
-    <a href="https://github.com/MatheusRenzo/GitHub-Readme-Cards/issues/new?assignees=&labels=enhancement&projects=&template=feature_request.yml">Solicitar Funcionalidade</a>
-    ·
-    <a href="https://github.com/MatheusRenzo/GitHub-Readme-Cards/discussions">FAQ</a>
-    ·
-    <a href="https://github.com/MatheusRenzo/GitHub-Readme-Cards/discussions/new?category=q-a">Fazer Pergunta</a>
-  </p>
-</p>
+---
 
-<p align="center">Gostou do projeto? Dê uma estrela no GitHub para mostrar seu apoio! ⭐</p>
+## 🌟 **Por que usar GitHub Readme Cards?**
 
-# 🚀 GitHub Readme Cards
+**GitHub Readme Cards** é uma ferramenta poderosa que transforma dados estáticos do GitHub em cartões visuais dinâmicos e atrativos. Em vez de apenas números e texto, você terá:
 
-> **Cartões bonitos e dinâmicos do GitHub para seus READMEs!**
+- 🎨 **Cartões visuais** com temas personalizáveis
+- 📊 **Estatísticas em tempo real** do seu perfil
+- 🌈 **Gradientes e cores** que combinam com seu estilo
+- 📱 **Design responsivo** que funciona em qualquer dispositivo
+- ⚡ **Cache inteligente** para performance otimizada
+- 🔄 **Atualizações automáticas** sempre que houver mudanças
 
-Crie cartões visuais impressionantes que exibem suas estatísticas do GitHub, principais linguagens, informações de repositório e muito mais. Perfeito para fazer seu perfil do GitHub se destacar!
+---
 
-## ✨ Funcionalidades <!-- omit in toc -->
+## ✨ **Funcionalidades Principais**
 
-- [🚀 GitHub Readme Cards](#-github-readme-cards)
-- [Cartão de Estatísticas GitHub](#cartão-de-estatísticas-github)
-    - [Ocultando estatísticas individuais](#ocultando-estatísticas-individuais)
-    - [Mostrando estatísticas individuais adicionais](#mostrando-estatísticas-individuais-adicionais)
-    - [Mostrando ícones](#mostrando-ícones)
-    - [Temas](#temas)
-      - [Todos os temas integrados](#todos-os-temas-integrados)
-      - [Tema de Cartão Responsivo](#tema-de-cartão-responsivo)
-        - [Use o tema transparente](#use-o-tema-transparente)
-        - [Adicione canal alfa transparente ao bg\_color de um tema](#adicione-canal-alfa-transparente-ao-bg_color-de-um-tema)
-        - [Use a tag de contexto de tema do GitHub](#use-a-tag-de-contexto-de-tema-do-github)
-        - [Use o novo recurso de mídia do GitHub](#use-o-novo-recurso-de-mídia-do-github)
-    - [Personalização](#personalização)
-      - [Opções Comuns](#opções-comuns)
-        - [Gradiente em bg\_color](#gradiente-em-bg_color)
-        - [Locais disponíveis](#locais-disponíveis)
-      - [Opções Exclusivas do Cartão de Estatísticas](#opções-exclusivas-do-cartão-de-estatísticas)
-      - [Opções Exclusivas do Cartão de Repositório](#opções-exclusivas-do-cartão-de-repositório)
-      - [Opções Exclusivas do Cartão de Gist](#opções-exclusivas-do-cartão-de-gist)
-      - [Opções Exclusivas do Cartão de Linguagem](#opções-exclusivas-do-cartão-de-linguagem)
-      - [Opções Exclusivas do Cartão WakaTime](#opções-exclusivas-do-cartão-wakatime)
-- [Pins Extras do GitHub](#pins-extras-do-github)
-    - [Uso](#uso)
-    - [Demo](#demo)
-- [Pins de Gist do GitHub](#pins-de-gist-do-github)
-    - [Uso](#uso-1)
-    - [Demo](#demo-1)
-- [Cartão de Principais Linguagens](#cartão-de-principais-linguagens)
-    - [Uso](#uso-2)
-    - [Algoritmo de estatísticas de linguagem](#algoritmo-de-estatísticas-de-linguagem)
-    - [Excluir repositórios individuais](#excluir-repositórios-individuais)
-    - [Ocultar linguagens individuais](#ocultar-linguagens-individuais)
-    - [Mostrar mais linguagens](#mostrar-mais-linguagens)
-    - [Layout Compacto do Cartão de Linguagem](#layout-compacto-do-cartão-de-linguagem)
-    - [Layout de Gráfico Donut do Cartão de Linguagem](#layout-de-gráfico-donut-do-cartão-de-linguagem)
-    - [Layout de Gráfico Donut Vertical do Cartão de Linguagem](#layout-de-gráfico-donut-vertical-do-cartão-de-linguagem)
-    - [Layout de Gráfico de Pizza do Cartão de Linguagem](#layout-de-gráfico-de-pizza-do-cartão-de-linguagem)
-    - [Ocultar Barras de Progresso](#ocultar-barras-de-progresso)
-    - [Demo](#demo-2)
-- [Cartão de Estatísticas WakaTime](#cartão-de-estatísticas-wakatime)
-    - [Demo](#demo-3)
-- [Todos os Demos](#todos-os-demos)
-  - [Dica Rápida (Alinhar os Cartões)](#dica-rápida-alinhar-os-cartões)
-- [Implante por conta própria](#implante-por-conta-própria)
-  - [No Vercel](#no-vercel)
-    - [:film\_projector: Confira o Tutorial em Vídeo Passo a Passo Por @codeSTACKr](#film_projector-confira-o-tutorial-em-vídeo-passo-a-passo-por-codestackr)
-  - [Em outras plataformas](#em-outras-plataformas)
-  - [Desabilitar proteções de limite de taxa](#desabilitar-proteções-de-limite-de-taxa)
-  - [Mantenha seu fork atualizado](#mantenha-seu-fork-atualizado)
-- [:sparkling\_heart: Apoie o projeto](#sparkling_heart-apoie-o-projeto)
+### 🎯 **1. Cartão de Estatísticas GitHub**
+O cartão mais popular que exibe suas principais métricas:
 
-# Notas Importantes <!-- omit in toc -->
-
-> [!IMPORTANT]\
-> Como a API do GitHub só permite 5k requisições por hora por conta de usuário, a instância pública do Vercel hospedada em `https://GitHub-Readme-Cards.vercel.app/api` pode eventualmente atingir o limite de taxa (veja [#1471](https://github.com/MatheusRenzo/GitHub-Readme-Cards/issues/1471)). Usamos cache para prevenir isso (veja https://github.com/MatheusRenzo/GitHub-Readme-Cards#opções-comuns). Você pode desabilitar essas proteções de limite de taxa ao implantar [sua própria instância do Vercel](#desabilitar-proteções-de-limite-de-taxa).
-
-<img alt="Badge de Uptime" src="https://img.shields.io/endpoint?url=https%3A%2F%2FGitHub-Readme-Cards-git-monitoring-GitHub-Readme-Cards-team.vercel.app%2Fapi%2Fstatus%2Fup%3Ftype%3Dshields">
-
-> [!IMPORTANT]\
-> Somos uma equipe pequena, e para priorizar, dependemos de votos :+1:. Usamos o painel de problemas principais para rastrear a demanda da comunidade (veja [#1935](https://github.com/MatheusRenzo/GitHub-Readme-Cards/issues/1935)). Não hesite em votar nos problemas e pull requests que você está interessado. Trabalharemos primeiro nos mais votados.
-
-# Cartão de Estatísticas GitHub
-
-Copie e cole este código no seu markdown, e é isso! Simples!
-
-Altere o valor de `?username=` para seu nome de usuário do GitHub.
-
-```md
-[![MatheusRenzo's GitHub stats](https://GitHub-Readme-Cards.vercel.app/api?username=MatheusRenzo)](https://github.com/MatheusRenzo/GitHub-Readme-Cards)
+```markdown
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEU_USERNAME&show_icons=true&theme=radical)
 ```
 
-> [!WARNING]\
-> Por padrão, o cartão de estatísticas só mostra estatísticas como estrelas, commits e pull requests de repositórios públicos. Para mostrar estatísticas privadas no cartão de estatísticas, você deve [implantar sua própria instância](#implante-por-conta-própria) usando seu próprio token da API do GitHub.
+**O que mostra:**
+- ⭐ **Total de estrelas** recebidas
+- 🍴 **Total de forks** dos seus projetos
+- 📝 **Total de commits** realizados
+- 🐛 **Issues abertas e fechadas**
+- 🔄 **Pull requests** criados e aceitos
+- 📊 **Rank global** baseado na sua atividade
 
-> [!NOTE]\
-> Os ranks disponíveis são S (top 1%), A+ (12.5%), A (25%), A- (37.5%), B+ (50%), B (62.5%), B- (75%), C+ (87.5%) e C (todos). Este esquema de classificação é baseado no sistema de classificação acadêmica [Japonês](https://wikipedia.org/wiki/Academic_grading_in_Japan). O percentual global é calculado como uma soma ponderada de percentis para cada estatística (número de commits, pull requests, revisões, issues, estrelas e seguidores), baseado na função de distribuição cumulativa da [distribuição exponencial](https://wikipedia.org/wiki/exponential_distribution) e da [distribuição log-normal](https://wikipedia.org/wiki/Log-normal_distribution). A implementação pode ser investigada em [src/calculateRank.js](https://github.com/MatheusRenzo/GitHub-Readme-Cards/blob/master/src/calculateRank.js). O círculo ao redor do rank mostra 100 menos o percentual global.
+### 📌 **2. Cartão de Repositório em Destaque**
+Destaque um repositório específico com estatísticas detalhadas:
 
-### Ocultando estatísticas individuais
-
-Você pode passar um parâmetro de consulta `&hide=` para ocultar qualquer estatística específica com valores separados por vírgula.
-
-> Opções: `&hide=stars,commits,prs,issues,contribs`
-
-```md
-![Anurag's GitHub stats](https://GitHub-Readme-Cards.vercel.app/api?username=MatheusRenzo&hide=contribs,prs)
+```markdown
+![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=SEU_USERNAME&repo=REPO_NAME)
 ```
 
-### Mostrando estatísticas individuais adicionais
+**Informações exibidas:**
+- 📁 **Nome e descrição** do repositório
+- 🌟 **Estrelas e forks** atuais
+- 💻 **Linguagem principal** utilizada
+- 📅 **Data da última atualização**
+- 👤 **Proprietário** do repositório
 
-Você pode passar um parâmetro de consulta `&show=` para mostrar qualquer estatística adicional específica com valores separados por vírgula.
+### 🗣️ **3. Cartão de Principais Linguagens**
+Visualize suas linguagens de programação mais utilizadas:
 
-> Opções: `&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage`
-
-```md
-![Anurag's GitHub stats](https://GitHub-Readme-Cards.vercel.app/api?username=MatheusRenzo&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
+```markdown
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USERNAME&layout=compact)
 ```
 
-### Mostrando ícones
+**Layouts disponíveis:**
+- 📊 **Compacto** - Lista simples e direta
+- 🍩 **Donut** - Gráfico circular elegante
+- 📈 **Donut Vertical** - Versão vertical do donut
+- 🥧 **Pizza** - Gráfico de pizza tradicional
+- 📋 **Padrão** - Layout original com barras
 
-Para habilitar ícones, você pode passar `&show_icons=true` no parâmetro de consulta, assim:
+### ⏰ **4. Cartão de Estatísticas WakaTime**
+Integre suas estatísticas de tempo de desenvolvimento:
 
-```md
-![Anurag's GitHub stats](https://GitHub-Readme-Cards.vercel.app/api?username=MatheusRenzo&show_icons=true)
+```markdown
+![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=SEU_USERNAME)
 ```
 
-### Temas
+**Dados exibidos:**
+- ⏱️ **Tempo total** de desenvolvimento
+- 📅 **Atividade diária** e semanal
+- 💻 **Linguagens** mais utilizadas
+- 🛠️ **Editores** preferidos
+- 🌍 **Sistemas operacionais** utilizados
 
-Com temas integrados, você pode personalizar a aparência do cartão sem fazer nenhuma [personalização manual](#personalização).
+### 📝 **5. Cartão de Gist**
+Destaque um gist específico com informações detalhadas:
 
-Use o parâmetro `&theme=THEME_NAME` assim:
-
-```md
-![Anurag's GitHub stats](https://GitHub-Readme-Cards.vercel.app/api?username=MatheusRenzo&show_icons=true&theme=radical)
+```markdown
+![Gist Card](https://github-readme-stats.vercel.app/api/gist?gist_id=GIST_ID)
 ```
 
-#### Todos os temas integrados
+---
 
-O GitHub Readme Cards vem com vários temas integrados (por exemplo, `dark`, `radical`, `merko`, `gruvbox`, `tokyonight`, `onedark`, `cobalt`, `synthwave`, `highcontrast`, `dracula`).
+## 🎨 **Temas e Personalização**
 
-<img src="https://res.cloudinary.com/MatheusRenzo/image/upload/v1595174536/grs-themes_l4ynja.png" alt="Temas do GitHub Readme Cards" width="600px"/>
+### 🌈 **Temas Integrados**
+Escolha entre **40+ temas** pré-definidos:
 
-Você pode ver um preview para [todos os temas disponíveis](temas/README.md) ou confira o [arquivo de configuração do tema](temas/index.js). Observe que paramos a adição de novos temas para diminuir os esforços de manutenção; todas as pull requests relacionadas a novos temas serão fechadas.
+| Tema | Visual | Código |
+|------|--------|--------|
+| **Default** | ![Default](https://github-readme-stats.vercel.app/api?username=MatheusRenzo&theme=default) | `theme=default` |
+| **Dark** | ![Dark](https://github-readme-stats.vercel.app/api?username=MatheusRenzo&theme=dark) | `theme=dark` |
+| **Radical** | ![Radical](https://github-readme-stats.vercel.app/api?username=MatheusRenzo&theme=radical) | `theme=radical` |
+| **Merko** | ![Merko](https://github-readme-stats.vercel.app/api?username=MatheusRenzo&theme=merko) | `theme=merko` |
+| **Gruvbox** | ![Gruvbox](https://github-readme-stats.vercel.app/api?username=MatheusRenzo&theme=gruvbox) | `theme=gruvbox` |
+| **Tokyonight** | ![Tokyonight](https://github-readme-stats.vercel.app/api?username=MatheusRenzo&theme=tokyonight) | `theme=tokyonight` |
 
-#### Tema de Cartão Responsivo
+### 🎨 **Personalização Avançada**
+Crie temas únicos com cores personalizadas:
 
-[![Anurag's GitHub stats-Dark](https://GitHub-Readme-Cards.vercel.app/api?username=MatheusRenzo\&show_icons=true\&theme=dark#gh-dark-mode-only)](https://github.com/MatheusRenzo/GitHub-Readme-Cards#tema-de-cartão-responsivo#gh-dark-mode-only)
-[![Anurag's GitHub stats-Light](https://GitHub-Readme-Cards.vercel.app/api?username=MatheusRenzo\&show_icons=true\&theme=default#gh-light-mode-only)](https://github.com/MatheusRenzo/GitHub-Readme-Cards#tema-de-cartão-responsivo#gh-light-mode-only)
-
-Como o GitHub re-uploadará os cartões e os servirá do seu [CDN](https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/about-anonymized-urls), não podemos inferir o tema do navegador/GitHub no lado do servidor. No entanto, existem quatro métodos que você pode usar para criar temas dinâmicos no lado do cliente.
-
-##### Use o tema transparente
-
-Incluímos um tema `transparent` que tem um fundo transparente. Este tema é otimizado para se parecer bem com os temas padrão escuro e claro do GitHub. Você pode habilitar este tema usando o parâmetro `&theme=transparent` assim:
-
-```md
-![Anurag's GitHub stats](https://GitHub-Readme-Cards.vercel.app/api?username=MatheusRenzo&show_icons=true&theme=transparent)
+```markdown
+![Custom Card](https://github-readme-stats.vercel.app/api?username=SEU_USERNAME&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff)
 ```
 
-<details>
-<summary>:eyes: Mostrar exemplo</summary>
+**Parâmetros de cor:**
+- `bg_color` - Cor de fundo (hex, rgb, gradiente)
+- `title_color` - Cor do título
+- `text_color` - Cor do texto principal
+- `icon_color` - Cor dos ícones
+- `border_color` - Cor da borda
 
-![Anurag's GitHub stats](https://GitHub-Readme-Cards.vercel.app/api?username=MatheusRenzo\&show_icons=true\&theme=transparent)
+---
 
-</details>
+## 🚀 **Como Usar**
 
-##### Adicione canal alfa transparente ao bg_color de um tema
-
-Você pode usar o parâmetro `bg_color` para tornar qualquer um dos [temas disponíveis](temas/README.md) transparente. Isso é feito definindo o `bg_color` para uma cor com um canal alfa transparente (ou seja, `bg_color=00000000`):
-
-```md
-![Anurag's GitHub stats](https://GitHub-Readme-Cards.vercel.app/api?username=MatheusRenzo&show_icons=true&bg_color=00000000)
+### **1. Cartão Básico de Estatísticas**
+```markdown
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEU_USERNAME)
 ```
 
-<details>
-<summary>:eyes: Mostrar exemplo</summary>
-
-![Anurag's GitHub stats](https://GitHub-Readme-Cards.vercel.app/api?username=MatheusRenzo\&show_icons=true\&bg_color=00000000)
-
-</details>
-
-##### Use a tag de contexto de tema do GitHub
-
-Você pode usar [tags de contexto de tema do GitHub](https://github.blog/changelog/2021-11-24-specify-theme-context-for-images-in-markdown/) para alternar o tema com base no tema do GitHub do usuário automaticamente. Isso é feito anexando `#gh-dark-mode-only` ou `#gh-light-mode-only` ao final de uma URL de imagem. Esta tag definirá se a imagem especificada no markdown deve ser mostrada apenas para usuários que usam um tema claro ou escuro do GitHub:
-
-```md
-[![Anurag's GitHub stats-Dark](https://GitHub-Readme-Cards.vercel.app/api?username=MatheusRenzo&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/MatheusRenzo/GitHub-Readme-Cards#gh-dark-mode-only)
-[![Anurag's GitHub stats-Light](https://GitHub-Readme-Cards.vercel.app/api?username=MatheusRenzo&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/MatheusRenzo/GitHub-Readme-Cards#gh-light-mode-only)
+### **2. Cartão com Ícones e Tema**
+```markdown
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEU_USERNAME&show_icons=true&theme=radical)
 ```
 
-<details>
-<summary>:eyes: Mostrar exemplo</summary>
-
-[![Anurag's GitHub stats-Dark](https://GitHub-Readme-Cards.vercel.app/api?username=MatheusRenzo\&show_icons=true\&theme=dark#gh-dark-mode-only)](https://github.com/MatheusRenzo/GitHub-Readme-Cards#gh-dark-mode-only)
-[![Anurag's GitHub stats-Light](https://GitHub-Readme-Cards.vercel.app/api?username=MatheusRenzo\&show_icons=true\&theme=default#gh-light-mode-only)](https://github.com/MatheusRenzo/GitHub-Readme-Cards#gh-light-mode-only)
-
-</details>
-
-##### Use o novo recurso de mídia do GitHub
-
-Você pode usar o [novo recurso de mídia do GitHub](https://github.blog/changelog/2022-05-19-specify-theme-context-for-images-in-markdown-beta/) no HTML para especificar se as imagens devem ser exibidas para temas claros ou escuros. Isso é feito usando o elemento HTML `<picture>` em conjunto com a funcionalidade de mídia `prefers-color-scheme`.
-
-```html
-<picture>
-  <source
-    srcset="https://GitHub-Readme-Cards.vercel.app/api?username=MatheusRenzo&show_icons=true&theme=dark"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://GitHub-Readme-Cards.vercel.app/api?username=MatheusRenzo&show_icons=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://GitHub-Readme-Cards.vercel.app/api?username=MatheusRenzo&show_icons=true" />
-</picture>
+### **3. Cartão Ocultando Estatísticas**
+```markdown
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEU_USERNAME&hide=contribs,issues)
 ```
 
-<details>
-<summary>:eyes: Mostrar exemplo</summary>
-
-<picture>
-  <source
-    srcset="https://GitHub-Readme-Cards.vercel.app/api?username=MatheusRenzo&show_icons=true&theme=dark"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://GitHub-Readme-Cards.vercel.app/api?username=MatheusRenzo&show_icons=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://GitHub-Readme-Cards.vercel.app/api?username=MatheusRenzo&show_icons=true" />
-</picture>
-
-</details>
-
-### Personalização
-
-Você pode personalizar a aparência de todos os seus cartões da forma que desejar com parâmetros de URL.
-
-#### Opções Comuns
-
-| Nome | Descrição | Tipo | Valor padrão |
-| --- | --- | --- | --- |
-| `title_color` | Cor do título do cartão. | string (cor hexadecimal) | `2f80ed` |
-| `text_color` | Cor do texto do corpo. | string (cor hexadecimal) | `434d58` |
-| `icon_color` | Cor dos ícones se disponíveis. | string (cor hexadecimal) | `4c71f2` |
-| `border_color` | Cor da borda do cartão. Não se aplica quando `hide_border` está habilitado. | string (cor hexadecimal) | `e4e2e2` |
-| `bg_color` | Cor de fundo do cartão. | string (cor hexadecimal ou gradiente no formato *ângulo,inicio,fim*) | `fffefe` |
-| `hide_border` | Oculta a borda do cartão. | booleano | `false` |
-| `theme` | Nome do tema, escolha entre [todos os temas disponíveis](temas/README.md). | enum | `default` |
-| `cache_seconds` | Define o cabeçalho de cache manualmente (min: 21600, max: 86400). | inteiro | `21600` |
-| `locale` | Define o idioma no cartão, você pode verificar a lista completa de idiomas disponíveis [aqui](#locais-disponíveis). | enum | `en` |
-| `border_radius` | Arredondamento das bordas do cartão. | número | `4.5` |
-
-> [!WARNING]\
-> Usamos cache para diminuir a carga no nosso servidor (veja <https://github.com/MatheusRenzo/GitHub-Readme-Cards/issues/1471#issuecomment-1271551425>). Nosso cartões têm as seguintes horas de cache padrão: cartão de estatísticas - 24 horas, cartão de principais linguagens - 144 horas (6 dias), pin card - 240 horas (10 dias), cartão de gist - 48 horas (2 dias). Se você quiser que os dados da sua estatística de cartão sejam atualizados com mais frequência, você pode [implantar sua própria instância](#implante-por-conta-própria) e definir [variável de ambiente](#desabilitar-proteções-de-limite-de-taxa) `CACHE_SECONDS` para um valor de sua escolha.
-
-##### Gradiente em bg_color
-
-Você pode fornecer múltiplos valores separados por vírgula na opção `bg_color` para renderizar um gradiente com o seguinte formato:
-
-    &bg_color=DEG,COLOR1,COLOR2,COLOR3...COLOR10
-
-##### Locais disponíveis
-
-Aqui está a lista de todos os idiomas disponíveis:
-
-<table>
-<tr><td>
-
-| Código | Idioma |
-| --- | --- |
-| `cn` | Chinês |
-| `zh-tw` | Chinês (Taiwan) |
-| `ar` | Árabe |
-| `cs` | Tcheco |
-| `de` | Alemão |
-| `en` | Inglês |
-| `bn` | Bengalês |
-| `es` | Espanhol |
-| `fr` | Francês |
-| `hu` | Húngaro |
-
-</td><td>
-
-| Código | Idioma |
-| --- | --- |
-| `it` | Italiano |
-| `ja` | Japonês |
-| `kr` | Coreano |
-| `nl` | Holandês |
-| `pt-pt` | Português (Portugal) |
-| `pt-br` | Português (Brasil) |
-| `np` | Nepali |
-| `el` | Grego |
-| `ru` | Russo |
-| `uk-ua` | Ucraniano |
-
-</td><td>
-
-| Código | Idioma |
-| --- | --- |
-| `id` | Indonésio |
-| `ml` | Malaio |
-| `my` | Birmanês |
-| `sk` | Eslovaco |
-| `tr` | Turco |
-| `pl` | Polonês |
-| `uz` | Uzbeque |
-| `vi` | Vietnamita |
-| `se` | Sueco |
-
-</td></tr>
-</table>
-
-Se não suportarmos seu idioma, considere contribuir! Você pode encontrar mais informações sobre como fazer isso em nosso [guia de contribuição](CONTRIBUTING.md#contribuição-de-traduções).
-
-#### Opções Exclusivas do Cartão de Estatísticas
-
-| Nome | Descrição | Tipo | Valor padrão |
-| --- | --- | --- | --- |
-| `hide` | Oculta as [itens especificados](#ocultando-estatísticas-individuais) do cartão de estatísticas. | string (valores separados por vírgula) | `null` |
-| `hide_title` | Oculta o título do seu cartão de estatísticas. | booleano | `false` |
-| `card_width` | Define a largura manualmente do cartão. | número | `500px  (aproximadamente)` |
-| `hide_rank` | Oculta o rank e redimensiona automaticamente a largura do cartão. | booleano | `false` |
-| `rank_icon` | Mostra um ícone de rank alternativo (ou seja, `github`, `percentile` ou `default`). | enum | `default` |
-| `show_icons` | Mostra ícones próximos a todas as estatísticas. | booleano | `false` |
-| `include_all_commits` | Conta commits totais em vez de apenas commits do ano atual. | booleano | `false` |
-| `line_height` | Define a altura da linha entre os textos. | inteiro | `25` |
-| `exclude_repo` | Exclui repositórios especificados. | string (valores separados por vírgula) | `null` |
-| `custom_title` | Define um título personalizado para o cartão. | string | `<username> GitHub Stats` |
-| `text_bold` | Usa texto em negrito. | booleano | `true` |
-| `disable_animations` | Desabilita todas as animações no cartão. | booleano | `false` |
-| `ring_color` | Cor do círculo do rank. | string (cor hexadecimal) | `2f80ed` |
-| `number_format` | Alterna entre dois formatos disponíveis para exibir os valores do cartão `short` (ou seja, `6.6k`) e `long` (ou seja, `6626`). | enum | `short` |
-| `show` | Mostra [itens adicionais](#mostrando-estatísticas-individuais-adicionais) no cartão de estatísticas (ou seja, `reviews`, `discussions_started`, `discussions_answered`, `prs_merged` ou `prs_merged_percentage`). | string (valores separados por vírgula) | `null` |
-
-> [!NOTE]\
-> Quando `hide_rank=true`, a largura mínima do cartão é 270 px + o comprimento do título e o padding.
-
-#### Opções Exclusivas do Cartão de Repositório
-
-| Nome | Descrição | Tipo | Valor padrão |
-| --- | --- | --- | --- |
-| `show_owner` | Mostra o nome do proprietário do repositório. | booleano | `false` |
-| `description_lines_count` | Define manualmente o número de linhas para a descrição. O valor especificado será ajustado entre 1 e 3. Se este parâmetro não for especificado, o número de linhas será ajustado automaticamente de acordo com o comprimento real da descrição. | número | `null` |
-
-#### Opções Exclusivas do Cartão de Gist
-
-| Nome | Descrição | Tipo | Valor padrão |
-| --- | --- | --- | --- |
-| `show_owner` | Mostra o nome do proprietário do gist. | booleano | `false` |
-
-#### Opções Exclusivas do Cartão de Linguagem
-
-| Nome | Descrição | Tipo | Valor padrão |
-| --- | --- | --- | --- |
-| `hide` | Oculta as [linguagens especificadas](#ocultar-linguagens-individuais) do cartão. | string (valores separados por vírgula) | `null` |
-| `hide_title` | Oculta o título do seu cartão. | booleano | `false` |
-| `layout` | Alterna entre cinco layouts disponíveis `normal` & `compact` & `donut` & `donut-vertical` & `pie`. | enum | `normal` |
-| `card_width` | Define a largura manualmente do cartão. | número | `300` |
-| `langs_count` | Mostra mais linguagens no cartão, entre 1-20. | inteiro | `5` para `normal` e `donut`, `6` para outros layouts |
-| `exclude_repo` | Exclui repositórios especificados. | string (valores separados por vírgula) | `null` |
-| `custom_title` | Define um título personalizado para o cartão. | string | `Linguagens Mais Usadas` |
-| `disable_animations` | Desabilita todas as animações no cartão. | booleano | `false` |
-| `hide_progress` | Usa a opção de layout compacto, oculta porcentagens e remove as barras. | booleano | `false` |
-| `size_weight` | Configura o algoritmo de estatísticas de linguagem (veja [Algoritmo de estatísticas de linguagem](#algoritmo-de-estatísticas-de-linguagem)). | inteiro | `1` |
-| `count_weight` | Configura o algoritmo de estatísticas de linguagem (veja [Algoritmo de estatísticas de linguagem](#algoritmo-de-estatísticas-de-linguagem)). | inteiro | `0` |
-
-> [!WARNING]\
-> Os nomes das linguagens devem ser codificados URI, conforme especificado em [Codificação Percentual](https://en.wikipedia.org/wiki/Percent-encoding)
-> (ou seja: `c++` deve se tornar `c%2B%2B`, `jupyter notebook` deve se tornar `jupyter%20notebook`, etc.) Você pode usar
-> [urlencoder.org](https://www.urlencoder.org/) para ajudá-lo a fazer isso automaticamente.
-
-#### Opções Exclusivas do Cartão WakaTime
-
-| Nome | Descrição | Tipo | Valor padrão |
-| --- | --- | --- | --- |
-| `hide` | Oculta as linguagens especificadas do cartão. | string (valores separados por vírgula) | `null` |
-| `hide_title` | Oculta o título do seu cartão. | booleano | `false` |
-| `line_height` | Define a altura da linha entre os textos. | inteiro | `25` |
-| `hide_progress` | Oculta a barra de progresso e a porcentagem. | booleano | `false` |
-| `custom_title` | Define um título personalizado para o cartão. | string | `Estatísticas WakaTime` |
-| `layout` | Alterna entre dois layouts disponíveis `default` & `compact`. | enum | `default` |
-| `langs_count` | Limita o número de linguagens no cartão, padrão para todas as linguagens relatadas. | inteiro | `null` |
-| `api_domain` | Define um domínio de API personalizado para o cartão, por exemplo, para usar serviços como [Hakatime](https://github.com/mujx/hakatime) ou [Wakapi](https://github.com/muety/wakapi) | string | `wakatime.com` |
-| `display_format` | Define o formato de exibição das estatísticas do WakaTime. Escolha `time` para exibir estatísticas baseadas em tempo ou `percent` para mostrar porcentagens. | enum | `time` |
-| `disable_animations` | Desabilita todas as animações no cartão. | booleano | `false` |
-
-***
-
-# Pins Extras do GitHub
-
-Os pins extras do GitHub permitem que você fixe mais de 6 repositórios no seu perfil usando um perfil do GitHub em um readme.
-
-Yay! Você não está mais limitado a 6 repositórios fixados.
-
-### Uso
-
-Copie e cole este código no seu readme e altere os links.
-
-Endpoint: `api/pin?username=MatheusRenzo&repo=GitHub-Readme-Cards`
-
-```md
-[![Readme Card](https://GitHub-Readme-Cards.vercel.app/api/pin/?username=MatheusRenzo&repo=GitHub-Readme-Cards)](https://github.com/MatheusRenzo/GitHub-Readme-Cards)
+### **4. Cartão Mostrando Estatísticas Extras**
+```markdown
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEU_USERNAME&show=reviews,discussions_started,discussions_answered,prs_merged)
 ```
 
-### Demo
-
-![Readme Card](https://GitHub-Readme-Cards.vercel.app/api/pin/?username=MatheusRenzo\&repo=GitHub-Readme-Cards)
-
-Use a opção de consulta [show_owner](#opções-exclusivas-do-cartão-de-repositório) para incluir o nome de usuário do proprietário do repositório
-
-![Readme Card](https://GitHub-Readme-Cards.vercel.app/api/pin/?username=MatheusRenzo\&repo=GitHub-Readme-Cards\&show_owner=true)
-
-# Pins de Gist do GitHub
-
-Os pins de gist do GitHub permitem que você fixe gists no seu perfil do GitHub usando um perfil do GitHub em um readme.
-
-### Uso
-
-Copie e cole este código no seu readme e altere os links.
-
-Endpoint: `api/gist?id=bbfce31e0217a3689c8d961a356cb10d`
-
-```md
-[![Gist Card](https://GitHub-Readme-Cards.vercel.app/api/gist?id=bbfce31e0217a3689c8d961a356cb10d)](https://gist.github.com/Yizack/bbfce31e0217a3689c8d961a356cb10d/)
+### **5. Cartão de Linguagens Compacto**
+```markdown
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USERNAME&layout=compact&theme=radical)
 ```
 
-### Demo
+---
 
-![Gist Card](https://GitHub-Readme-Cards.vercel.app/api/gist?id=bbfce31e0217a3689c8d961a356cb10d)
+## 📱 **Exemplos Práticos**
 
-Use a opção de consulta [show_owner](#opções-exclusivas-do-cartão-de-gist) para incluir o nome de usuário do proprietário do gist
+### **Perfil Profissional**
+```markdown
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEU_USERNAME&show_icons=true&theme=radical&hide=contribs,issues&show=reviews,discussions_started)](https://github.com/SEU_USERNAME)
 
-![Gist Card](https://GitHub-Readme-Cards.vercel.app/api/gist?id=bbfce31e0217a3689c8d961a356cb10d\&show_owner=true)
-
-# Cartão de Principais Linguagens
-
-O cartão de principais linguagens mostra as linguagens mais frequentemente usadas por um usuário do GitHub.
-
-> [!WARNING]\
-> Por padrão, o cartão de linguagem mostra resultados de linguagem apenas de repositórios públicos. Para incluir linguagens usadas em repositórios privados, você deve [implantar sua própria instância](#implante-por-conta-própria) usando seu próprio token da API do GitHub.
-
-> [!NOTE]\
-> O cartão de principais linguagens não indica o nível de habilidade do usuário ou qualquer coisa assim; é uma métrica do GitHub para determinar quais linguagens têm mais código no GitHub. É uma nova funcionalidade do GitHub-Readme-Cards.
-
-> [!WARNING]\
-> Este cartão mostra apenas o uso de linguagem dentro de seus próprios repositórios não-forked, não dependendo de quem é o autor dos commits. Não inclui suas contribuições para outros usuários/organizações repositórios. Atualmente, não há como obter esses dados da API do GitHub. Se você quiser que este comportamento seja melhorado, você pode apoiar [esta solicitação de funcionalidade](https://github.com/orgs/community/discussions/18230) criada por [@rickstaa](https://github.com/rickstaa) dentro da Comunidade do GitHub.
-
-> [!WARNING]\
-> Atualmente, este cartão mostra apenas dados sobre os primeiros 100 repositórios. Isso é porque as limitações da API do GitHub que causam interrupções de instâncias públicas (veja [#1471](https://github.com/MatheusRenzo/GitHub-Readme-Cards/issues/1471)). Em futuro, este comportamento será melhorado ao liberar uma ação do GitHub ou fornecer variáveis de ambiente para instâncias do usuário.
-
-### Uso
-
-Copie e cole este código no seu readme e altere os links.
-
-Endpoint: `api/top-langs?username=MatheusRenzo`
-
-```md
-[![Top Langs](https://GitHub-Readme-Cards.vercel.app/api/top-langs/?username=MatheusRenzo)](https://github.com/MatheusRenzo/GitHub-Readme-Cards)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USERNAME&layout=compact&theme=radical)](https://github.com/SEU_USERNAME)
 ```
 
-### Algoritmo de estatísticas de linguagem
-
-Usamos o seguinte algoritmo para calcular as porcentagens das linguagens no cartão de linguagem:
-
-```js
-ranking_index = (byte_count ^ size_weight) * (repo_count ^ count_weight)
+### **Portfólio de Projetos**
+```markdown
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=SEU_USERNAME&repo=PROJETO_1&theme=radical)](https://github.com/SEU_USERNAME/PROJETO_1)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=SEU_USERNAME&repo=PROJETO_2&theme=radical)](https://github.com/SEU_USERNAME/PROJETO_2)
 ```
 
-Por padrão, apenas o byte count é usado para determinar as porcentagens das linguagens mostradas no cartão de linguagem (ou seja, `size_weight=1` e `count_weight=0`). No entanto, você pode usar as opções `&size_weight=` e `&count_weight=` para ponderar o cálculo do uso da linguagem. Os valores devem ser números reais positivos. [Mais detalhes sobre o algoritmo podem ser encontrados aqui](https://github.com/MatheusRenzo/GitHub-Readme-Cards/issues/1600#issuecomment-1046056305).
+### **Perfil de Desenvolvedor Full-Stack**
+```markdown
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEU_USERNAME&show_icons=true&theme=merko&hide=contribs&show=reviews,discussions_started,prs_merged)](https://github.com/SEU_USERNAME)
 
-*   `&size_weight=1&count_weight=0` - *(padrão)* Ordena por byte count.
-*   `&size_weight=0.5&count_weight=0.5` - *(recomendado)* Usa byte e repo count para ranking
-*   `&size_weight=0&count_weight=1` - Ordena por repo count
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USERNAME&layout=donut&theme=merko)](https://github.com/SEU_USERNAME)
 
-```md
-![Top Langs](https://GitHub-Readme-Cards.vercel.app/api/top-langs/?username=MatheusRenzo&size_weight=0.5&count_weight=0.5)
+[![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=SEU_USERNAME&theme=merko)](https://wakatime.com/@SEU_USERNAME)
 ```
 
-### Excluir repositórios individuais
+---
 
-Você pode usar o parâmetro `&exclude_repo=repo1,repo2` para excluir repositórios individuais.
+## 🔧 **Deploy Próprio**
 
-```md
-![Top Langs](https://GitHub-Readme-Cards.vercel.app/api/top-langs/?username=MatheusRenzo&exclude_repo=GitHub-Readme-Cards,MatheusRenzo.github.io)
+### **Por que fazer deploy próprio?**
+- 🚀 **Performance superior** - Sem limites de rate limit
+- 🔒 **Privacidade** - Seus dados ficam em seu servidor
+- 🎨 **Personalização total** - Modifique como quiser
+- 📊 **Estatísticas** - Monitore o uso da sua API
+
+### **Deploy no Vercel (Recomendado)**
+
+#### **Passo 1: Fork do Repositório**
+```bash
+# Faça fork do repositório para sua conta
+# Clique em "Fork" no GitHub
 ```
 
-### Ocultar linguagens individuais
-
-Você pode usar o parâmetro `&hide=language1,language2` para ocultar linguagens individuais.
-
-```md
-![Top Langs](https://GitHub-Readme-Cards.vercel.app/api/top-langs/?username=MatheusRenzo&hide=javascript,html)
+#### **Passo 2: Clone Local**
+```bash
+git clone https://github.com/SEU_USERNAME/GitHub-Readme-Cards.git
+cd GitHub-Readme-Cards
 ```
 
-### Mostrar mais linguagens
+#### **Passo 3: Configurar Vercel**
+1. Acesse [vercel.com](https://vercel.com)
+2. Conecte sua conta GitHub
+3. Importe o repositório forkado
+4. Configure as variáveis de ambiente
 
-Você pode usar a opção `&langs_count=` para aumentar ou diminuir o número de linguagens mostradas no cartão. Os valores válidos são inteiros entre 1 e 20 (inclusive). Por padrão, foi definido para `5` para `normal` & `donut` e `6` para outros layouts.
+#### **Passo 4: Variáveis de Ambiente**
+```env
+# GitHub Personal Access Token
+PAT_1=ghp_xxxxxxxxxxxxxxxxxxxx
+PAT_2=ghp_xxxxxxxxxxxxxxxxxxxx
+PAT_3=ghp_xxxxxxxxxxxxxxxxxxxx
 
-```md
-![Top Langs](https://GitHub-Readme-Cards.vercel.app/api/top-langs/?username=MatheusRenzo&langs_count=8)
+# Configurações opcionais
+CACHE_SECONDS=14400
+REQUEST_TIMEOUT=30000
 ```
 
-### Layout Compacto do Cartão de Linguagem
+#### **Passo 5: Deploy Automático**
+- A cada push para `main`, o Vercel fará deploy automático
+- Sua API estará disponível em: `https://SEU_PROJETO.vercel.app`
 
-Você pode usar a opção `&layout=compact` para alterar o design do cartão.
+### **Deploy no Railway**
 
-```md
-![Top Langs](https://GitHub-Readme-Cards.vercel.app/api/top-langs/?username=MatheusRenzo&layout=compact)
+#### **Passo 1: Conectar Railway**
+1. Acesse [railway.app](https://railway.app)
+2. Conecte sua conta GitHub
+3. Selecione o repositório
+
+#### **Passo 2: Configurar**
+```bash
+# Railway detectará automaticamente que é um projeto Node.js
+# Configure as variáveis de ambiente na interface
 ```
 
-### Layout de Gráfico Donut do Cartão de Linguagem
+### **Deploy no Render**
 
-Você pode usar a opção `&layout=donut` para alterar o design do cartão.
+#### **Passo 1: Conectar Render**
+1. Acesse [render.com](https://render.com)
+2. Conecte sua conta GitHub
+3. Crie um novo Web Service
 
-```md
-[![Top Langs](https://GitHub-Readme-Cards.vercel.app/api/top-langs/?username=MatheusRenzo&layout=donut)](https://github.com/MatheusRenzo/GitHub-Readme-Cards)
+#### **Passo 2: Configuração**
+```yaml
+# render.yaml
+services:
+  - type: web
+    name: github-readme-cards
+    env: node
+    buildCommand: npm install
+    startCommand: npm start
+    envVars:
+      - key: NODE_ENV
+        value: production
 ```
 
-### Layout de Gráfico Donut Vertical do Cartão de Linguagem
+---
 
-Você pode usar a opção `&layout=donut-vertical` para alterar o design do cartão.
+## 🛠️ **Configuração Local**
 
-```md
-[![Top Langs](https://GitHub-Readme-Cards.vercel.app/api/top-langs/?username=MatheusRenzo&layout=donut-vertical)](https://github.com/MatheusRenzo/GitHub-Readme-Cards)
+### **Requisitos**
+- **Node.js** 22.18.0 ou superior
+- **npm** ou **yarn**
+- **Git**
+
+### **Instalação**
+
+#### **1. Clone o Repositório**
+```bash
+git clone https://github.com/MatheusRenzo/GitHub-Readme-Cards.git
+cd GitHub-Readme-Cards
 ```
 
-### Layout de Gráfico de Pizza do Cartão de Linguagem
-
-Você pode usar a opção `&layout=pie` para alterar o design do cartão.
-
-```md
-[![Top Langs](https://GitHub-Readme-Cards.vercel.app/api/top-langs/?username=MatheusRenzo&layout=pie)](https://github.com/MatheusRenzo/GitHub-Readme-Cards)
+#### **2. Instale as Dependências**
+```bash
+npm install
+# ou
+yarn install
 ```
 
-### Ocultar Barras de Progresso
+#### **3. Configure as Variáveis de Ambiente**
+```bash
+# Crie um arquivo .env na raiz do projeto
+cp .env.example .env
 
-Você pode usar a opção `&hide_progress=true` para ocultar as porcentagens e as barras de progresso (o layout será automaticamente definido como `compact`).
-
-```md
-![Top Langs](https://GitHub-Readme-Cards.vercel.app/api/top-langs/?username=MatheusRenzo&hide_progress=true)
+# Edite o arquivo .env com suas configurações
+nano .env
 ```
 
-### Demo
-
-![Top Langs](https://GitHub-Readme-Cards.vercel.app/api/top-langs/?username=MatheusRenzo)
-
-*   Layout Compacto
-
-![Top Langs](https://GitHub-Readme-Cards.vercel.app/api/top-langs/?username=MatheusRenzo\&layout=compact)
-
-*   Layout de Gráfico Donut
-
-[![Top Langs](https://GitHub-Readme-Cards.vercel.app/api/top-langs/?username=MatheusRenzo\&layout=donut)](https://github.com/MatheusRenzo/GitHub-Readme-Cards)
-
-*   Layout de Gráfico Donut Vertical
-
-[![Top Langs](https://GitHub-Readme-Cards.vercel.app/api/top-langs/?username=MatheusRenzo\&layout=donut-vertical)](https://github.com/MatheusRenzo/GitHub-Readme-Cards)
-
-*   Layout de Gráfico de Pizza
-
-[![Top Langs](https://GitHub-Readme-Cards.vercel.app/api/top-langs/?username=MatheusRenzo\&layout=pie)](https://github.com/MatheusRenzo/GitHub-Readme-Cards)
-
-*   Barras de progresso ocultas
-
-![Top Langs](https://GitHub-Readme-Cards.vercel.app/api/top-langs/?username=MatheusRenzo\&hide_progress=true)
-
-# Cartão de Estatísticas WakaTime
-
-> [!WARNING]\
-> Por favor, esteja ciente de que, atualmente, mostramos apenas dados de perfis do WakaTime que são públicos. Portanto, você deve garantir que **AMBOS** `Exibir código de tempo publicamente` e `Exibir linguagens, editores, sistemas operacionais, categorias publicamente` estejam habilitados.
-
-Altere o valor de `?username=` para seu [WakaTime](https://wakatime.com) username.
-
-```md
-[![Harlok's WakaTime stats](https://GitHub-Readme-Cards.vercel.app/api/wakatime?username=ffflabs)](https://github.com/MatheusRenzo/GitHub-Readme-Cards)
+#### **4. Inicie o Servidor Local**
+```bash
+npm start
+# ou
+npm run dev
 ```
 
-### Demo
+#### **5. Acesse a API**
+- **URL Local:** `http://localhost:9000`
+- **Rota de Status:** `http://localhost:9000/api`
+- **Teste:** `http://localhost:9000/?username=SEU_USERNAME`
 
-![Harlok's WakaTime stats](https://GitHub-Readme-Cards.vercel.app/api/wakatime?username=ffflabs)
+---
 
-![Harlok's WakaTime stats](https://GitHub-Readme-Cards.vercel.app/api/wakatime?username=ffflabs\&hide_progress=true)
+## 📊 **API Endpoints**
 
-*   Layout Compacto
+### **Rotas Principais**
 
-![Harlok's WakaTime stats](https://GitHub-Readme-Cards.vercel.app/api/wakatime?username=ffflabs\&layout=compact)
+| Endpoint | Descrição | Exemplo |
+|----------|-----------|---------|
+| `/` | Cartão de estatísticas | `/?username=MatheusRenzo` |
+| `/pin` | Cartão de repositório | `/pin?repo=MatheusRenzo/GitHub-Readme-Cards` |
+| `/top-langs` | Cartão de linguagens | `/top-langs?username=MatheusRenzo` |
+| `/wakatime` | Cartão do WakaTime | `/wakatime?username=MatheusRenzo` |
+| `/gist` | Cartão de Gist | `/gist?gist_id=1234567890abcdef` |
 
-***
+### **Rotas de Status (Novas!)**
 
-# Todos os Demos
+| Endpoint | Descrição | Exemplo |
+|----------|-----------|---------|
+| `/api` | Informações da API | `/api` |
+| `/status/up` | Status dos PATs | `/status/up?type=shields` |
+| `/status/pat-info` | Info detalhada dos PATs | `/status/pat-info` |
 
-*   Padrão
+### **Parâmetros Comuns**
 
-![Anurag's GitHub stats](https://GitHub-Readme-Cards.vercel.app/api?username=MatheusRenzo)
+#### **Para Estatísticas (`/`)**
+- `username` - Nome de usuário do GitHub
+- `show_icons` - Mostrar ícones (true/false)
+- `theme` - Tema do cartão
+- `hide` - Estatísticas para ocultar
+- `show` - Estatísticas extras para mostrar
 
-*   Ocultar estatísticas específicas
+#### **Para Linguagens (`/top-langs`)**
+- `username` - Nome de usuário do GitHub
+- `layout` - Layout do cartão (compact, donut, pie)
+- `langs_count` - Número de linguagens para mostrar
+- `exclude_repo` - Repositórios para excluir
+- `hide` - Linguagens para ocultar
 
-![Anurag's GitHub stats](https://GitHub-Readme-Cards.vercel.app/api?username=MatheusRenzo\&hide=contribs,issues)
+#### **Para Repositórios (`/pin`)**
+- `repo` - Nome do repositório (usuário/repo)
+- `show_owner` - Mostrar proprietário (true/false)
+- `theme` - Tema do cartão
 
-*   Mostrar estatísticas adicionais
+---
 
-![Anurag's GitHub stats](https://GitHub-Readme-Cards.vercel.app/api?username=MatheusRenzo\&show_icons=true\&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
+## 🎯 **Casos de Uso**
 
-*   Mostrar ícones
+### **1. Perfil Pessoal**
+```markdown
+# 👋 Olá, eu sou [Seu Nome]
 
-![Anurag's GitHub stats](https://GitHub-Readme-Cards.vercel.app/api?username=MatheusRenzo\&hide=issues\&show_icons=true)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEU_USERNAME&show_icons=true&theme=radical)](https://github.com/SEU_USERNAME)
 
-*   Mostra logo do Github em vez do nível do rank
-
-![Anurag's GitHub stats](https://GitHub-Readme-Cards.vercel.app/api?username=MatheusRenzo\&rank_icon=github)
-
-*   Mostra percentil do usuário em vez do nível do rank
-
-![Anurag's GitHub stats](https://GitHub-Readme-Cards.vercel.app/api?username=MatheusRenzo\&rank_icon=percentile)
-
-*   Personalizar cor da borda
-
-![Anurag's GitHub stats](https://GitHub-Readme-Cards.vercel.app/api?username=MatheusRenzo\&border_color=2e4058)
-
-*   Incluir commits totais
-
-![Anurag's GitHub stats](https://GitHub-Readme-Cards.vercel.app/api?username=MatheusRenzo\&include_all_commits=true)
-
-*   Temas
-
-Escolha qualquer um dos [temas padrão](#temas)
-
-![Anurag's GitHub stats](https://GitHub-Readme-Cards.vercel.app/api?username=MatheusRenzo\&show_icons=true\&theme=radical)
-
-*   Gradiente
-
-![Anurag's GitHub stats](https://GitHub-Readme-Cards.vercel.app/api?username=MatheusRenzo\&bg_color=30,e96443,904e95\&title_color=fff\&text_color=fff)
-
-*   Personalizando cartão de estatísticas
-
-![Anurag's GitHub stats](https://GitHub-Readme-Cards.vercel.app/api/?username=MatheusRenzo\&show_icons=true\&title_color=fff\&icon_color=79ff97\&text_color=9f9f9f\&bg_color=151515)
-
-*   Definindo o locale do cartão
-
-![Anurag's GitHub stats](https://GitHub-Readme-Cards.vercel.app/api/?username=MatheusRenzo\&locale=es)
-
-*   Personalizando cartão de repositório
-
-![Cartão Personalizado](https://GitHub-Readme-Cards.vercel.app/api/pin?username=MatheusRenzo\&repo=GitHub-Readme-Cards\&title_color=fff\&icon_color=f9f9f9\&text_color=9f9f9f\&bg_color=151515)
-
-*   Cartão de Gist
-
-![Cartão de Gist](https://GitHub-Readme-Cards.vercel.app/api/gist?id=bbfce31e0217a3689c8d961a356cb10d)
-
-*   Personalizando cartão de Gist
-
-![Cartão de Gist](https://GitHub-Readme-Cards.vercel.app/api/gist?id=bbfce31e0217a3689c8d961a356cb10d&theme=calm)
-
-*   Cartão de Principais Linguagens
-
-![Top Langs](https://GitHub-Readme-Cards.vercel.app/api/top-langs/?username=MatheusRenzo)
-
-*   Cartão WakaTime
-
-![Harlok's WakaTime stats](https://GitHub-Readme-Cards.vercel.app/api/wakatime?username=ffflabs)
-
-***
-
-## Dica Rápida (Alinhar os Cartões)
-
-Por padrão, o GitHub não alinha os cartões lado a lado. Para fazer isso, você pode usar este método:
-
-```html
-<a href="https://github.com/MatheusRenzo/GitHub-Readme-Cards">
-  <img height=200 align="center" src="https://GitHub-Readme-Cards.vercel.app/api?username=MatheusRenzo" />
-</a>
-<a href="https://github.com/MatheusRenzo/convoychat">
-  <img height=200 align="center" src="https://GitHub-Readme-Cards.vercel.app/api/top-langs?username=MatheusRenzo&layout=compact&langs_count=8&card_width=320" />
-</a>
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USERNAME&layout=compact&theme=radical)](https://github.com/SEU_USERNAME)
 ```
 
-```html
-<a href="https://github.com/MatheusRenzo/GitHub-Readme-Cards">
-  <img align="center" src="https://GitHub-Readme-Cards.vercel.app/api/pin/?username=MatheusRenzo&repo=GitHub-Readme-Cards" />
-</a>
-<a href="https://github.com/MatheusRenzo/convoychat">
-  <img align="center" src="https://GitHub-Readme-Cards.vercel.app/api/pin/?username=MatheusRenzo&repo=convoychat" />
-</a>
+### **2. Portfólio Profissional**
+```markdown
+# 💼 Portfólio de Projetos
+
+## 🚀 Projetos em Destaque
+
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=SEU_USERNAME&repo=PROJETO_1&theme=merko)](https://github.com/SEU_USERNAME/PROJETO_1)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=SEU_USERNAME&repo=PROJETO_2&theme=merko)](https://github.com/SEU_USERNAME/PROJETO_2)
+
+## 📊 Estatísticas Gerais
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEU_USERNAME&show_icons=true&theme=merko&hide=contribs&show=reviews,discussions_started)](https://github.com/SEU_USERNAME)
 ```
 
-<details>
-<summary>:eyes: Mostrar exemplo</summary>
+### **3. Documentação de Projeto**
+```markdown
+# 📚 Documentação
 
-<a href="https://github.com/MatheusRenzo/GitHub-Readme-Cards">
-  <img height=200 align="center" src="https://GitHub-Readme-Cards.vercel.app/api?username=MatheusRenzo" />
-</a>
-<a href="https://github.com/MatheusRenzo/convoychat">
-  <img height=200 align="center" src="https://GitHub-Readme-Cards.vercel.app/api/top-langs?username=MatheusRenzo&layout=compact&langs_count=8&card_width=320" />
-</a>
+## 📊 Estatísticas do Projeto
 
-***
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEU_USERNAME&repo=PROJETO&show_icons=true&theme=dark)](https://github.com/SEU_USERNAME/PROJETO)
 
-<a href="https://github.com/MatheusRenzo/GitHub-Readme-Cards">
-  <img align="center" src="https://GitHub-Readme-Cards.vercel.app/api/pin/?username=MatheusRenzo&repo=GitHub-Readme-Cards" />
-</a>
-<a href="https://github.com/MatheusRenzo/convoychat">
-  <img align="center" src="https://GitHub-Readme-Cards.vercel.app/api/pin/?username=MatheusRenzo&repo=convoychat" />
-</a>
+## 🌟 Contribuidores
 
-</details>
+[![GitHub Contributors](https://img.shields.io/github/contributors/SEU_USERNAME/PROJETO?style=for-the-badge&logo=github)](https://github.com/SEU_USERNAME/PROJETO/graphs/contributors)
+```
 
-# Implante por conta própria
+---
 
-## No Vercel
+## 🔍 **Troubleshooting**
 
-### :film_projector: [Confira o Tutorial em Vídeo Passo a Passo Por @codeSTACKr](https://youtu.be/n6d4KHSKqGk?t=107)
+### **Problemas Comuns**
 
-Como a API do GitHub só permite 5k requisições por hora, a minha `https://GitHub-Readme-Cards.vercel.app/api` pode eventualmente atingir o limite de taxa. Se você hospedar em seu próprio servidor do Vercel, então você não precisa se preocupar com nada. Clique no botão de implantação para começar!
+#### **1. Cartão não aparece**
+- ✅ Verifique se o username está correto
+- ✅ Confirme se o usuário tem repositórios públicos
+- ✅ Teste a URL da API diretamente no navegador
 
-> [!NOTE]\
-> Desde [#58](https://github.com/MatheusRenzo/GitHub-Readme-Cards/pull/58), devemos ser capazes de lidar com mais de 5k requisições e ter menos problemas com interrupções :grin:.
+#### **2. Erro de Rate Limit**
+- ✅ Configure tokens GitHub (PAT_1, PAT_2, etc.)
+- ✅ Use cache para reduzir requisições
+- ✅ Faça deploy próprio para evitar limites
 
-> [!NOTE]\
-> Se você está no [Pro (ou seja, pago)](https://vercel.com/pricing), o valor de [maxDuration](https://vercel.com/docs/concepts/projects/project-configuration#value-definition) encontrado no [vercel.json](https://github.com/MatheusRenzo/GitHub-Readme-Cards/blob/master/vercel.json) pode ser aumentado quando sua instância do Vercel frequentemente falha durante a solicitação do cartão. Você é aconselhado a manter este valor abaixo de `30` segundos para prevenir o uso de memória alta.
+#### **3. Cores não aplicam**
+- ✅ Use códigos hex válidos (#FFFFFF)
+- ✅ Verifique se o tema existe
+- ✅ Teste com cores simples primeiro
 
-[![Deploy to Vercel](https://vercel.com/button)](https://vercel.com/import/project?template=https://github.com/MatheusRenzo/GitHub-Readme-Cards)
+#### **4. Layout quebrado**
+- ✅ Use layouts suportados (compact, donut, pie)
+- ✅ Verifique se todos os parâmetros são válidos
+- ✅ Teste em diferentes dispositivos
 
-<details>
- <summary><b>:hammer_and_wrench: Guia passo a passo para configurar sua própria instância do Vercel</b></summary>
+### **Soluções**
 
-1.  Vá para [vercel.com](https://vercel.com/).
-2.  Clique em `Log in`.
-    ![](https://files.catbox.moe/pcxk33.png)
-3.  Faça login com GitHub pressionando `Continue with GitHub`.
-    ![](https://files.catbox.moe/b9oxey.png)
-4.  Faça login no GitHub e permita o acesso a todos os repositórios se solicitado.
-5.  Fork este repositório.
-6.  Volte para seu [painel de dashboard do Vercel](https://vercel.com/dashboard).
-7.  Para importar um projeto, clique no botão `Add New...` e selecione a opção `Project`.
-    ![](https://files.catbox.moe/3n76fh.png)
-8.  Clique no botão `Continue with GitHub`, procure o repositório Git necessário e importe-o clicando no botão `Import`. Alternativamente, você pode importar um repositório Git de terceiros usando o link `Import Third-Party Git Repository ->` no final da página.
-    ![](https://files.catbox.moe/mg5p04.png)
-9.  Crie um token de acesso pessoal (PAT) [aqui](https://github.com/settings/tokens/new) e habilite as permissões `repo` e `user` (isso permite acesso para ver repositórios privados e estatísticas de usuário).
-10. Adicione o PAT como uma variável de ambiente nomeada `PAT_1` (como mostrado).
-    ![](https://files.catbox.moe/0yclio.png)
-11. Clique em deploy, e você está pronto. Veja seus domínios para usar a API!
+#### **Rate Limit Excedido**
+```bash
+# Configure múltiplos tokens
+PAT_1=ghp_xxxxxxxxxxxxxxxxxxxx
+PAT_2=ghp_xxxxxxxxxxxxxxxxxxxx
+PAT_3=ghp_xxxxxxxxxxxxxxxxxxxx
+```
 
-</details>
+#### **Cache não funcionando**
+```bash
+# Ajuste o tempo de cache
+CACHE_SECONDS=14400  # 4 horas
+```
 
-## Em outras plataformas
+#### **Performance lenta**
+```bash
+# Configure timeout
+REQUEST_TIMEOUT=30000  # 30 segundos
+```
 
-> [!WARNING]\
-> Este método de uso do GRS não é oficialmente suportado e foi adicionado para atender a alguns casos de uso específicos onde o Vercel não pode ser usado (por exemplo, [#2341](https://github.com/MatheusRenzo/GitHub-Readme-Cards/discussions/2341)). Portanto, o suporte a este método é limitado.
+---
 
-<details>
-<summary><b>:hammer_and_wrench: Guia passo a passo para implantação em outras plataformas</b></summary>
+## 🤝 **Contribuindo**
 
-1.  Fork ou clone este repositório conforme necessário
-2.  Adicione `express` à seção de dependências do `package.json`
-    <https://github.com/MatheusRenzo/GitHub-Readme-Cards/blob/ba7c2f8b55eac8452e479c8bd38b044d204d0424/package.json#L54-L61>
-3.  Execute `npm i` se necessário (configuração inicial)
-4.  Execute `node express.js` para iniciar o servidor, ou defina o ponto de entrada para `express.js` no `package.json` se você estiver implantando em um serviço gerenciado
-    <https://github.com/MatheusRenzo/GitHub-Readme-Cards/blob/ba7c2f8b55eac8452e479c8bd38b044d204d0424/package.json#L11>
-5.  Você está pronto 🎉
-    </details>
+### **Como Contribuir**
 
-## Desabilitar proteções de limite de taxa
+1. **Fork** o repositório
+2. **Clone** localmente
+3. **Crie** uma branch para sua feature
+4. **Faça** suas alterações
+5. **Teste** localmente
+6. **Commit** suas mudanças
+7. **Push** para sua branch
+8. **Abra** um Pull Request
 
-O Github Readme Stats contém várias variáveis de ambiente do Vercel que podem ser usadas para remover as proteções de limite de taxa:
+### **Diretrizes**
 
-*   `CACHE_SECONDS`: Esta variável de ambiente tem precedência sobre os valores mínimos e máximos de cache que definimos e pode contornar esses valores para instâncias do Vercel auto-hospedadas.
+- 📝 **Documente** suas mudanças
+- 🧪 **Adicione testes** para novas funcionalidades
+- 🎨 **Mantenha** o estilo do código
+- 📚 **Atualize** a documentação
+- 🔍 **Teste** em diferentes ambientes
 
-Veja a [documentação do Vercel](https://vercel.com/docs/concepts/projects/environment-variables) sobre como adicionar estas variáveis de ambiente à sua instância do Vercel.
+### **Estrutura do Projeto**
 
-## Mantenha seu fork atualizado
+```
+GitHub-Readme-Cards/
+├── api/                    # Endpoints da API
+│   ├── index.js           # Cartão de estatísticas
+│   ├── pin.js             # Cartão de repositório
+│   ├── top-langs.js       # Cartão de linguagens
+│   ├── wakatime.js        # Cartão do WakaTime
+│   ├── gist.js            # Cartão de Gist
+│   └── status/            # Rotas de status
+│       ├── up.js          # Status dos PATs
+│       └── pat-info.js    # Info dos PATs
+├── src/                    # Código fonte
+│   ├── cards/             # Lógica dos cartões
+│   ├── common/            # Utilitários comuns
+│   └── fetchers/          # Buscadores de dados
+├── themes/                 # Temas disponíveis
+├── tests/                  # Testes automatizados
+├── express.js              # Servidor Express
+└── package.json            # Dependências
+```
 
-Você pode manter seu fork, e assim sua instância privada do Vercel atualizada com o upstream usando o botão [Sync Fork](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/working-with-forks/syncing-a-fork) do GitHub. Você também pode usar o pacote [pull](https://github.com/wei/pull) criado por [@wei](https://github.com/wei) para automatizar este processo.
+---
 
-# :sparkling_heart: Apoie o projeto
+## 📈 **Roadmap**
 
-Sou open-source quase tudo que posso e tento responder a todos que precisam de ajuda usando estes projetos. Obviamente,
-isso leva tempo. Você pode usar este serviço gratuitamente.
+### **Versão Atual (1.0.0)**
+- ✅ Cartões de estatísticas básicos
+- ✅ Temas personalizáveis
+- ✅ Cartões de linguagens
+- ✅ Cartões de repositório
+- ✅ Integração WakaTime
+- ✅ Rotas de status da API
+- ✅ Documentação completa
 
-No entanto, se você estiver usando este projeto e estiver feliz com ele ou apenas quiser encorajar-me a continuar criando coisas, há várias maneiras de fazer isso:
+### **Próximas Versões**
+- 🔄 **Temas dinâmicos** baseados no horário
+- 🔄 **Mais integrações** (GitLab, Bitbucket)
+- 🔄 **Analytics** e métricas de uso
+- 🔄 **Templates** pré-definidos
+- 🔄 **API GraphQL** para consultas avançadas
+- 🔄 **Webhooks** para atualizações em tempo real
 
-*   Dar crédito apropriado quando usar GitHub-Readme-Cards no seu readme, vinculando de volta. :D
-*   Estrelar e compartilhar o projeto. :rocket:
-*   [![paypal.me/MatheusRenzo](https://ionicabizau.github.io/badges/paypal.svg)](https://www.paypal.me/MatheusRenzo) - Você pode fazer uma doação única via PayPal. Provavelmente vou comprar um ~~café~~ chá. :tea:
+---
 
-Obrigado! :heart:
+## 📄 **Licença**
 
-***
+Este projeto está licenciado sob a **MIT License** - veja o arquivo [LICENSE](LICENSE) para detalhes.
 
-[![https://vercel.com?utm_source=github_readme_stats_team&utm_campaign=oss](powered-by-vercel.svg)](https://vercel.com?utm_source=github_readme_stats_team&utm_campaign=oss)
+---
 
-Contribuições são bem-vindas! <3
+## 🙏 **Agradecimentos**
 
-Feito com :heart: e JavaScript.
+- **Anurag Hazra** - Criador do projeto original
+- **Comunidade GitHub** - Por todas as contribuições
+- **Contribuidores** - Que ajudaram a evoluir o projeto
+- **Usuários** - Que usam e testam a ferramenta
+
+---
+
+## 📞 **Suporte**
+
+### **Precisa de ajuda?**
+
+- 🐛 **Reporte bugs** - [GitHub Issues](https://github.com/MatheusRenzo/GitHub-Readme-Cards/issues)
+- 💡 **Sugira features** - [GitHub Discussions](https://github.com/MatheusRenzo/GitHub-Readme-Cards/discussions)
+- 📚 **Documentação** - [Wiki do Projeto](https://github.com/MatheusRenzo/GitHub-Readme-Cards/wiki)
+- 💬 **Chat** - [GitHub Discussions](https://github.com/MatheusRenzo/GitHub-Readme-Cards/discussions)
+
+### **Conecte-se**
+
+- 🌐 **Website:** [GitHub Profile](https://github.com/MatheusRenzo)
+- 🐦 **Twitter:** [@MatheusRenzo](https://twitter.com/MatheusRenzo)
+- 💼 **LinkedIn:** [MatheusRenzo](https://linkedin.com/in/MatheusRenzo)
+- 📧 **Email:** [contato@matheusrenzo.dev](mailto:contato@matheusrenzo.dev)
+
+---
+
+<div align="center">
+
+**⭐ Se este projeto te ajudou, considere dar uma estrela no GitHub! ⭐**
+
+[![GitHub Stars](https://img.shields.io/github/stars/MatheusRenzo/GitHub-Readme-Cards?style=for-the-badge&logo=github&color=gold)](https://github.com/MatheusRenzo/GitHub-Readme-Cards/stargazers)
+
+**Feito com ❤️ e ☕ por [MatheusRenzo](https://github.com/MatheusRenzo)**
+
+[![GitHub Followers](https://img.shields.io/github/followers/MatheusRenzo?style=for-the-badge&logo=github&color=blue)](https://github.com/MatheusRenzo)
+
+</div>
