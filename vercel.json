@@ -21,6 +21,9 @@
     },
     "api/status/pat-info.js": {
       "maxDuration": 30
+    },
+    "api/api-info.js": {
+      "maxDuration": 30
     }
   },
   "routes": [
@@ -54,7 +57,7 @@
     },
     {
       "src": "/api",
-      "dest": "/api/index.js"
+      "dest": "/api/api-info.js"
     }
   ],
   "env": {
