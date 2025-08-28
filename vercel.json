@@ -1,15 +1,60 @@
 {
   "version": 2,
-  "builds": [
-    {
-      "src": "express.js",
-      "use": "@vercel/node"
+  "functions": {
+    "api/index.js": {
+      "maxDuration": 30
+    },
+    "api/pin.js": {
+      "maxDuration": 30
+    },
+    "api/top-langs.js": {
+      "maxDuration": 30
+    },
+    "api/wakatime.js": {
+      "maxDuration": 30
+    },
+    "api/gist.js": {
+      "maxDuration": 30
+    },
+    "api/status/up.js": {
+      "maxDuration": 30
+    },
+    "api/status/pat-info.js": {
+      "maxDuration": 30
     }
-  ],
+  },
   "routes": [
     {
-      "src": "/(.*)",
-      "dest": "express.js"
+      "src": "/",
+      "dest": "/api/index.js"
+    },
+    {
+      "src": "/pin",
+      "dest": "/api/pin.js"
+    },
+    {
+      "src": "/top-langs",
+      "dest": "/api/top-langs.js"
+    },
+    {
+      "src": "/wakatime",
+      "dest": "/api/wakatime.js"
+    },
+    {
+      "src": "/gist",
+      "dest": "/api/gist.js"
+    },
+    {
+      "src": "/status/up",
+      "dest": "/api/status/up.js"
+    },
+    {
+      "src": "/status/pat-info",
+      "dest": "/api/status/pat-info.js"
+    },
+    {
+      "src": "/api",
+      "dest": "/api/index.js"
     }
   ],
   "env": {

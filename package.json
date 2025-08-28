@@ -5,8 +5,11 @@
   "main": "src/index.js",
   "type": "module",
   "scripts": {
-    "start": "node express.js",
-    "dev": "node express.js",
+    "start": "vercel dev",
+    "dev": "vercel dev",
+    "vercel:dev": "vercel dev",
+    "vercel:build": "vercel build",
+    "vercel:deploy": "vercel --prod",
     "test": "node --experimental-vm-modules node_modules/jest/bin/jest.js",
     "test:coverage": "node --experimental-vm-modules node_modules/jest/bin/jest.js --coverage"
   },
@@ -17,9 +20,10 @@
   },
   "license": "MIT",
   "devDependencies": {
+    "axios-mock-adapter": "^1.22.0",
     "jest": "^29.7.0",
     "jest-environment-jsdom": "^30.0.5",
-    "axios-mock-adapter": "^1.22.0"
+    "vercel": "^46.0.5"
   },
   "dependencies": {
     "axios": "^1.11.0",
