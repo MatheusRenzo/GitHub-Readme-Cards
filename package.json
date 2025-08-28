@@ -1,68 +1,25 @@
 {
   "name": "github-readme-cards",
   "version": "1.0.0",
-  "description": "🚀 Gera dinamicamente cartões bonitos e personalizáveis do GitHub para seu README com temas modernos e funcionalidades avançadas",
-  "keywords": [
-    "github-cards",
-    "readme-cards",
-    "cartões",
-    "gerador-de-cartões",
-    "estatísticas-github",
-    "github-stats",
-    "profile-cards",
-    "github-profile",
-    "readme-generator",
-    "github-api",
-    "wakatime",
-    "programming-languages",
-    "github-repos",
-    "github-gists"
-  ],
+  "description": "🚀 Gera dinamicamente cartões bonitos e personalizáveis do GitHub para seu README",
   "main": "src/index.js",
   "type": "module",
-  "homepage": "https://github.com/MatheusRenzo/GitHub-Readme-Cards",
-  "bugs": {
-    "url": "https://github.com/MatheusRenzo/GitHub-Readme-Cards/issues"
-  },
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/MatheusRenzo/GitHub-Readme-Cards.git"
-  },
   "scripts": {
     "start": "node express.js",
     "dev": "node express.js",
     "test": "node --experimental-vm-modules node_modules/jest/bin/jest.js",
-    "test:watch": "node --experimental-vm-modules node_modules/jest/bin/jest.js --watch",
-    "test:coverage": "node --experimental-vm-modules node_modules/jest/bin/jest.js --coverage",
-    "lint": "eslint . --ext .js",
-    "lint:fix": "eslint . --ext .js --fix",
-    "format": "prettier --write .",
-    "format:check": "prettier --check .",
-    "cache:clear": "node -e \"console.log('Cache cleared')\"",
-    "logs": "node -e \"console.log('Logs functionality coming soon')\"",
-    "monitor:memory": "node -e \"console.log('Memory monitoring coming soon')\"",
-    "monitor:cpu": "node -e \"console.log('CPU monitoring coming soon')\"",
-    "monitor:cache": "node -e \"console.log('Cache monitoring coming soon')\"",
-    "build": "echo 'Build step not required for Node.js project'",
-    "preview": "npm run dev"
+    "test:coverage": "node --experimental-vm-modules node_modules/jest/bin/jest.js --coverage"
   },
   "author": {
     "name": "MatheusRenzo",
     "email": "contato@matheusrenzo.dev",
     "url": "https://github.com/MatheusRenzo"
   },
-  "contributors": [
-    {
-      "name": "Anurag Hazra",
-      "url": "https://github.com/anuraghazra"
-    }
-  ],
   "license": "MIT",
   "devDependencies": {
     "jest": "^29.7.0",
     "jest-environment-jsdom": "^30.0.5",
-    "eslint": "^8.0.0",
-    "prettier": "^3.0.0"
+    "axios-mock-adapter": "^1.22.0"
   },
   "dependencies": {
     "axios": "^1.11.0",
@@ -70,36 +27,9 @@
     "emoji-name-map": "^1.2.8",
     "express": "^5.1.0",
     "github-username-regex": "^1.0.0",
-    "upgrade": "^1.1.0",
     "word-wrap": "^1.2.5"
   },
   "engines": {
-    "node": ">=22.18.0",
-    "npm": ">=9.0.0"
-  },
-  "os": [
-    "linux",
-    "darwin",
-    "win32"
-  ],
-  "cpu": [
-    "x64",
-    "arm64"
-  ],
-  "files": [
-    "src/",
-    "api/",
-    "themes/",
-    "express.js",
-    "package.json",
-    "README.md",
-    "LICENSE"
-  ],
-  "publishConfig": {
-    "access": "public"
-  },
-  "funding": {
-    "type": "github",
-    "url": "https://github.com/sponsors/MatheusRenzo"
+    "node": ">=18.0.0"
   }
 }

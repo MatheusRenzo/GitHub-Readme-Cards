@@ -1,8 +1,8 @@
 <div align="center">
   <img src="https://res.cloudinary.com/MatheusRenzo/image/upload/v1594908242/logo_ccswme.svg" width="120" alt="GitHub Readme Cards Logo"/>
-  
-  # 🚀 GitHub Readme Cards
-  
+
+# 🚀 GitHub Readme Cards
+
   ### ✨ Gere cartões visuais impressionantes para seu perfil GitHub
   
   [![GitHub Stars](https://img.shields.io/github/stars/MatheusRenzo/GitHub-Readme-Cards?style=for-the-badge&logo=github&color=gold)](https://github.com/MatheusRenzo/GitHub-Readme-Cards/stargazers)
@@ -13,7 +13,7 @@
   [![Node.js Version](https://img.shields.io/badge/Node.js-22.18.0+-brightgreen?style=for-the-badge&logo=node.js)](https://nodejs.org/)
   [![Express.js](https://img.shields.io/badge/Express.js-5.1.0+-blue?style=for-the-badge&logo=express)](https://expressjs.com/)
   [![License](https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge)](LICENSE)
-  [![Made with Love](https://img.shields.io/badge/Made%20with-❤️-red?style=for-the-badge)](https://github.com/MatheusRenzo)
+  [![Made with Love](https://img.shields.io/badge/feito%20por:-❤️-blue?style=for-the-badge)](https://github.com/MatheusRenzo)
   
   [![Deploy on Vercel](https://img.shields.io/badge/Deploy%20on-Vercel-black?style=for-the-badge&logo=vercel)](https://vercel.com)
   [![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-Enabled-brightgreen?style=for-the-badge&logo=github-actions)](https://github.com/MatheusRenzo/GitHub-Readme-Cards/actions)
@@ -21,15 +21,18 @@
   ---
   
   > **Transforme seu perfil GitHub em algo extraordinário!** 🎨
-  > 
-  > Crie cartões visuais impressionantes que exibem suas estatísticas, linguagens favoritas, repositórios em destaque e muito mais. Perfeito para desenvolvedores que querem se destacar!
+> 
+> Crie cartões visuais impressionantes que exibem suas estatísticas, linguagens favoritas, repositórios em destaque e muito mais. Perfeito para desenvolvedores que querem se destacar!
+> 
+> **🚀 Deploy personalizado:** [git-hub-readme-cards.vercel.app](https://git-hub-readme-cards.vercel.app/)
   
   [📖 **Documentação Completa**](#-funcionalidades) • 
-  [🚀 **Começar Agora**](#-como-usar) • 
-  [💡 **Exemplos**](#-exemplos) • 
-  [🔧 **Deploy Próprio**](#-deploy-próprio)
+[🚀 **Começar Agora**](#-como-usar) • 
+[💡 **Exemplos**](#-exemplos) • 
+[🔧 **Deploy Próprio**](#-deploy-próprio) • 
+[🌐 **Live Demo**](https://git-hub-readme-cards.vercel.app/)
   
-  [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MatheusRenzo&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=8B949E&icon_color=58A6FF&hide=contribs,issues)](https://github.com/MatheusRenzo/GitHub-Readme-Cards)
+  [![GitHub Stats](https://git-hub-readme-cards.vercel.app/?username=MatheusRenzo)](https://github.com/MatheusRenzo/GitHub-Readme-Cards)
   
 </div>
 
@@ -150,27 +153,27 @@ Crie temas únicos com cores personalizadas:
 
 ### **1. Cartão Básico de Estatísticas**
 ```markdown
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEU_USERNAME)
+![GitHub Stats](https://git-hub-readme-cards.vercel.app/api?username=SEU_USERNAME)
 ```
 
 ### **2. Cartão com Ícones e Tema**
 ```markdown
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEU_USERNAME&show_icons=true&theme=radical)
+![GitHub Stats](https://git-hub-readme-cards.vercel.app/api?username=SEU_USERNAME&show_icons=true&theme=radical)
 ```
 
 ### **3. Cartão Ocultando Estatísticas**
 ```markdown
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEU_USERNAME&hide=contribs,issues)
+![GitHub Stats](https://git-hub-readme-cards.vercel.app/api?username=SEU_USERNAME&hide=contribs,issues)
 ```
 
 ### **4. Cartão Mostrando Estatísticas Extras**
 ```markdown
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEU_USERNAME&show=reviews,discussions_started,discussions_answered,prs_merged)
+![GitHub Stats](https://git-hub-readme-cards.vercel.app/api?username=SEU_USERNAME&show=reviews,discussions_started,discussions_answered,prs_merged)
 ```
 
 ### **5. Cartão de Linguagens Compacto**
 ```markdown
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USERNAME&layout=compact&theme=radical)
+![Top Languages](https://git-hub-readme-cards.vercel.app/api/top-langs/?username=SEU_USERNAME&layout=compact&theme=radical)
 ```
 
 ---
@@ -179,24 +182,24 @@ Crie temas únicos com cores personalizadas:
 
 ### **Perfil Profissional**
 ```markdown
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEU_USERNAME&show_icons=true&theme=radical&hide=contribs,issues&show=reviews,discussions_started)](https://github.com/SEU_USERNAME)
+[![GitHub Stats](https://git-hub-readme-cards.vercel.app/api?username=SEU_USERNAME&show_icons=true&theme=radical&hide=contribs,issues&show=reviews,discussions_started)](https://github.com/SEU_USERNAME)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USERNAME&layout=compact&theme=radical)](https://github.com/SEU_USERNAME)
+[![Top Languages](https://git-hub-readme-cards.vercel.app/api/top-langs/?username=SEU_USERNAME&layout=compact&theme=radical)](https://github.com/SEU_USERNAME)
 ```
 
 ### **Portfólio de Projetos**
 ```markdown
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=SEU_USERNAME&repo=PROJETO_1&theme=radical)](https://github.com/SEU_USERNAME/PROJETO_1)
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=SEU_USERNAME&repo=PROJETO_2&theme=radical)](https://github.com/SEU_USERNAME/PROJETO_2)
+[![Repo Card](https://git-hub-readme-cards.vercel.app/api/pin/?username=SEU_USERNAME&repo=PROJETO_1&theme=radical)](https://github.com/SEU_USERNAME/PROJETO_1)
+[![Repo Card](https://git-hub-readme-cards.vercel.app/api/pin/?username=SEU_USERNAME&repo=SEU_USERNAME/PROJETO_2&theme=radical)](https://github.com/SEU_USERNAME/PROJETO_2)
 ```
 
 ### **Perfil de Desenvolvedor Full-Stack**
 ```markdown
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEU_USERNAME&show_icons=true&theme=merko&hide=contribs&show=reviews,discussions_started,prs_merged)](https://github.com/SEU_USERNAME)
+[![GitHub Stats](https://git-hub-readme-cards.vercel.app/api?username=SEU_USERNAME&show_icons=true&theme=merko&hide=contribs&show=reviews,discussions_started,prs_merged)](https://github.com/SEU_USERNAME)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USERNAME&layout=donut&theme=merko)](https://github.com/SEU_USERNAME)
+[![Top Languages](https://git-hub-readme-cards.vercel.app/api/top-langs/?username=SEU_USERNAME&layout=donut&theme=merko)](https://github.com/SEU_USERNAME)
 
-[![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=SEU_USERNAME&theme=merko)](https://wakatime.com/@SEU_USERNAME)
+[![WakaTime Stats](https://git-hub-readme-cards.vercel.app/api/wakatime?username=SEU_USERNAME&theme=merko)](https://wakatime.com/@SEU_USERNAME)
 ```
 
 ---
@@ -208,6 +211,7 @@ Crie temas únicos com cores personalizadas:
 - 🔒 **Privacidade** - Seus dados ficam em seu servidor
 - 🎨 **Personalização total** - Modifique como quiser
 - 📊 **Estatísticas** - Monitore o uso da sua API
+- 🌐 **URL personalizada** - Use seu próprio domínio
 
 ### **Deploy no Vercel (Recomendado)**
 
@@ -243,7 +247,8 @@ REQUEST_TIMEOUT=30000
 
 #### **Passo 5: Deploy Automático**
 - A cada push para `main`, o Vercel fará deploy automático
-- Sua API estará disponível em: `https://SEU_PROJETO.vercel.app`
+- Sua API estará disponível em: `https://git-hub-readme-cards.vercel.app`
+- **Exemplo:** `https://git-hub-readme-cards.vercel.app/api?username=MatheusRenzo`
 
 ### **Deploy no Railway**
 
@@ -322,7 +327,8 @@ npm run dev
 #### **5. Acesse a API**
 - **URL Local:** `http://localhost:9000`
 - **Rota de Status:** `http://localhost:9000/api`
-- **Teste:** `http://localhost:9000/?username=SEU_USERNAME`
+- **Teste:** `http://localhost:9000/?username=MatheusRenzo`
+- **Teste WakaTime:** `http://localhost:9000/wakatime?username=matheusrenzogamaDEV`
 
 ---
 
@@ -335,7 +341,7 @@ npm run dev
 | `/` | Cartão de estatísticas | `/?username=MatheusRenzo` |
 | `/pin` | Cartão de repositório | `/pin?repo=MatheusRenzo/GitHub-Readme-Cards` |
 | `/top-langs` | Cartão de linguagens | `/top-langs?username=MatheusRenzo` |
-| `/wakatime` | Cartão do WakaTime | `/wakatime?username=MatheusRenzo` |
+| `/wakatime` | Cartão do WakaTime | `/wakatime?username=matheusrenzogamaDEV` |
 | `/gist` | Cartão de Gist | `/gist?gist_id=1234567890abcdef` |
 
 ### **Rotas de Status (Novas!)**
@@ -375,9 +381,9 @@ npm run dev
 ```markdown
 # 👋 Olá, eu sou [Seu Nome]
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEU_USERNAME&show_icons=true&theme=radical)](https://github.com/SEU_USERNAME)
+[![GitHub Stats](https://git-hub-readme-cards.vercel.app/api?username=SEU_USERNAME&show_icons=true&theme=radical)](https://github.com/SEU_USERNAME)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USERNAME&layout=compact&theme=radical)](https://github.com/SEU_USERNAME)
+[![Top Languages](https://git-hub-readme-cards.vercel.app/api/top-langs/?username=SEU_USERNAME&layout=compact&theme=radical)](https://github.com/SEU_USERNAME)
 ```
 
 ### **2. Portfólio Profissional**
@@ -386,12 +392,12 @@ npm run dev
 
 ## 🚀 Projetos em Destaque
 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=SEU_USERNAME&repo=PROJETO_1&theme=merko)](https://github.com/SEU_USERNAME/PROJETO_1)
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=SEU_USERNAME&repo=PROJETO_2&theme=merko)](https://github.com/SEU_USERNAME/PROJETO_2)
+[![Repo Card](https://git-hub-readme-cards.vercel.app/api/pin/?username=SEU_USERNAME&repo=PROJETO_1&theme=merko)](https://github.com/SEU_USERNAME/PROJETO_1)
+[![Repo Card](https://git-hub-readme-cards.vercel.app/api/pin/?username=SEU_USERNAME&repo=PROJETO_2&theme=merko)](https://github.com/SEU_USERNAME/PROJETO_2)
 
 ## 📊 Estatísticas Gerais
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEU_USERNAME&show_icons=true&theme=merko&hide=contribs&show=reviews,discussions_started)](https://github.com/SEU_USERNAME)
+[![GitHub Stats](https://git-hub-readme-cards.vercel.app/api?username=SEU_USERNAME&show_icons=true&theme=merko&hide=contribs&show=reviews,discussions_started)](https://github.com/SEU_USERNAME)
 ```
 
 ### **3. Documentação de Projeto**
@@ -400,7 +406,7 @@ npm run dev
 
 ## 📊 Estatísticas do Projeto
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEU_USERNAME&repo=PROJETO&show_icons=true&theme=dark)](https://github.com/SEU_USERNAME/PROJETO)
+[![GitHub Stats](https://git-hub-readme-cards.vercel.app/api?username=SEU_USERNAME&repo=PROJETO&show_icons=true&theme=dark)](https://github.com/SEU_USERNAME/PROJETO)
 
 ## 🌟 Contribuidores
 
@@ -513,6 +519,9 @@ GitHub-Readme-Cards/
 - ✅ Integração WakaTime
 - ✅ Rotas de status da API
 - ✅ Documentação completa
+- ✅ Deploy personalizado em Vercel
+- ✅ Usuário GitHub: MatheusRenzo
+- ✅ WakaTime ID: matheusrenzogamaDEV
 
 ### **Próximas Versões**
 - 🔄 **Temas dinâmicos** baseados no horário
@@ -532,7 +541,6 @@ Este projeto está licenciado sob a **MIT License** - veja o arquivo [LICENSE](L
 
 ## 🙏 **Agradecimentos**
 
-- **Anurag Hazra** - Criador do projeto original
 - **Comunidade GitHub** - Por todas as contribuições
 - **Contribuidores** - Que ajudaram a evoluir o projeto
 - **Usuários** - Que usam e testam a ferramenta
@@ -550,10 +558,11 @@ Este projeto está licenciado sob a **MIT License** - veja o arquivo [LICENSE](L
 
 ### **Conecte-se**
 
-- 🌐 **Website:** [GitHub Profile](https://github.com/MatheusRenzo)
+- 🌐 **Website:** [git-hub-readme-cards.vercel.app](https://git-hub-readme-cards.vercel.app/)
 - 🐦 **Twitter:** [@MatheusRenzo](https://twitter.com/MatheusRenzo)
 - 💼 **LinkedIn:** [MatheusRenzo](https://linkedin.com/in/MatheusRenzo)
 - 📧 **Email:** [contato@matheusrenzo.dev](mailto:contato@matheusrenzo.dev)
+- ⏰ **WakaTime:** [matheusrenzogamaDEV](https://wakatime.com/@matheusrenzogamaDEV)
 
 ---
 
