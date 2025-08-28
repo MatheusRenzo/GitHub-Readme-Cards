@@ -1,0 +1,47 @@
+{
+  "name": "github-readme-cards",
+  "version": "1.0.0",
+  "description": "Gera dinamicamente cartões bonitos do GitHub para seu README",
+  "keywords": [
+    "github-cards",
+    "readme-cards",
+    "cartões",
+    "gerador-de-cartões",
+    "estatísticas-github"
+  ],
+  "main": "src/index.js",
+  "type": "module",
+  "homepage": "https://github.com/MatheusRenzo/GitHub-Readme-Cards",
+  "bugs": {
+    "url": "https://github.com/MatheusRenzo/GitHub-Readme-Cards/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/MatheusRenzo/GitHub-Readme-Cards.git"
+  },
+  "scripts": {
+    "test": "node --experimental-vm-modules node_modules/jest/bin/jest.js",
+    "test:watch": "node --experimental-vm-modules node_modules/jest/bin/jest.js --watch",
+    "start": "node express.js",
+    "dev": "node express.js"
+  },
+  "author": "MatheusRenzo",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^29.7.0",
+    "jest-environment-jsdom": "^30.0.5"
+  },
+  "dependencies": {
+    "axios": "^1.11.0",
+    "dotenv": "^17.2.1",
+    "emoji-name-map": "^1.2.8",
+    "express": "^5.1.0",
+    "github-username-regex": "^1.0.0",
+    "upgrade": "^1.1.0",
+    "word-wrap": "^1.2.5"
+  },
+
+  "engines": {
+    "node": ">=22"
+  }
+}
